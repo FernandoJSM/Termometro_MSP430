@@ -1,0 +1,2 @@
+# MSP430_5110_TERM
+Termômetro com o LCD 5110 no MSP430G2553
